@@ -1,0 +1,6 @@
+cad=input()
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+print(cad[a:(b+1)], cad[c:(d+1)])
